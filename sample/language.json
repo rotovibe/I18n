@@ -1,0 +1,14 @@
+{
+    "appName": "Homestead",
+    "appId": "12345678ryu2ehrjiou78123",
+    "messages": {
+        "app.name": {
+            "en": "I18n Starter",
+            "es": "I18n Entrada"
+        },
+        "auth.login.prompt": {
+            "en": "Don't have an account?",
+            "es": "¿No tienes una cuenta?"
+        }
+    }
+}
